@@ -29,11 +29,9 @@ Estimates of horizontal aeolian sediment mass flux, Q (g m-1 d-1) were produced 
 Analyses and graphs to illustrate benchmark establishment were developed using R version 4.2.1.
 
 
-# Data files include:
+# Repository includes:
 
-1.	JER2015.zip; JER2016.zip; JER2017.zip; JER2018.zip; JER2019.zip; JER2020.zip; JER2021.zip - These files contain raw meteorological data for each year through XXXX 2021.
-2.	JER_CoreIndicators_2015_2021.csv - This file contains indicators of vegetation foliar cover by plant functional group calculated from vegetation transect data collected for each measurement event.
-3.	JER_HorizontalFlux_2015_2021.csv - This file contains vertically-integrated horizontal sediment mass fluxes calculated from Modified Wilson and Cooke (MWAC) data for each collection period (2015-2021).
-
-The following lists provide field definitions for the meteorological, core indicators, and horizontal sediment mass flux data.
+1.	
+2.	
+3.	
 
