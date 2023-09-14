@@ -28,7 +28,6 @@ Estimates of horizontal aeolian sediment mass flux, Q (g m-1 d-1) were produced 
 
 Analyses and graphs to illustrate benchmark establishment were developed using R version 4.2.1.
 
-
 # Repository includes:
 
 Paper is structured to illustrate different approaches to establishing quantitative benchmarks using wind erosion as the example. Files in the repository include data and code for establishing benchmarks using: linear and segmented regression, change in variance, ecological site and state classifications, fuzzy clustering, and quantiles of indicator distributions. R code is named according to these approaches.
