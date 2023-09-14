@@ -31,8 +31,11 @@ Analyses and graphs to illustrate benchmark establishment were developed using R
 
 # Repository includes:
 
-1.	Data (folder):
-2.	Data_Extraction (folder):
-3.	Fuzzy_Clustering (folder):
-4.	Application_ecological_site_and_state_Concepts.R
+1.	Data (folder): aero.csv, BLM_indicators.csv, EDIT_ublic_ecological_site_list.csv, indicators.csv, indicators_2022-10-22.csv, sandy_esg_data.csv, sandy_state_all.csv, gap_tall.Rdata, header.Rdata, height_tall.Rdata, lpi_tall.Rdata, soil_stability_tall.Rdata, species_inventory_tall.Rdata, summary_v2_AIM_FLUX_OUTPUT.csv
+2.	Data_Extraction (folder): data_subsetting.csv, indicator_calcs.R, indicators_calcs_2022-10-21.R
+3.	Fuzzy_Clustering (folder): ecosite_synonyms_list.csv, high.mems.csv, high.sums.csv, missingsites.csv, topmem.summary.csv, topmems.csv, assigning_sitetype.R, cluster_plotting.R, fuzzy_clustering.R, class-synonym-list.txt
+4.  Linear_segmented_regression_variance_approaches.R
+5.  Application_ecological_site_and_state_Concepts.R
+6.  Quantiles.R
+7.  Indicator_quantiles_by_scale_20230825.R	
 
