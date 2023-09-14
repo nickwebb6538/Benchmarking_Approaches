@@ -31,7 +31,8 @@ Analyses and graphs to illustrate benchmark establishment were developed using R
 
 # Repository includes:
 
-1.	
-2.	
-3.	
+1.	Data (folder):
+2.	Data_Extraction (folder):
+3.	Fuzzy_Clustering (folder):
+4.	Application_ecological_site_and_state_Concepts.R
 
