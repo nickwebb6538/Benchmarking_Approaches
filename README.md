@@ -31,6 +31,8 @@ Analyses and graphs to illustrate benchmark establishment were developed using R
 
 # Repository includes:
 
+Paper is structured to illustrate different approaches to establishing quantitative benchmarks using wind erosion as the example. Files in the repository include data and code for establishing benchmarks using: linear and segmented regression, change in variance, ecological site and state classifications, fuzzy clustering, and quantiles of indicator distributions. R code is named according to these approaches.
+
 1.	Data (folder): aero.csv, BLM_indicators.csv, EDIT_ublic_ecological_site_list.csv, indicators.csv, indicators_2022-10-22.csv, sandy_esg_data.csv, sandy_state_all.csv, gap_tall.Rdata, header.Rdata, height_tall.Rdata, lpi_tall.Rdata, soil_stability_tall.Rdata, species_inventory_tall.Rdata, summary_v2_AIM_FLUX_OUTPUT.csv
 2.	Data_Extraction (folder): data_subsetting.csv, indicator_calcs.R, indicators_calcs_2022-10-21.R
 3.	Fuzzy_Clustering (folder): ecosite_synonyms_list.csv, high.mems.csv, high.sums.csv, missingsites.csv, topmem.summary.csv, topmems.csv, assigning_sitetype.R, cluster_plotting.R, fuzzy_clustering.R, class-synonym-list.txt
@@ -38,4 +40,16 @@ Analyses and graphs to illustrate benchmark establishment were developed using R
 5.  Application_ecological_site_and_state_Concepts.R
 6.  Quantiles.R
 7.  Indicator_quantiles_by_scale_20230825.R	
+
+R code for each example approach for establishing quantitative benchmarks includes links to relevant data files.
+
+# References
+
+Edwards, B.L., Webb, N.P., Galloza, M.S., Van Zee, J.W., Courtright E.M., Cooper B.F., Metz, L.J., Herrick, J.E., Okin, G.S., Duniway, M.C., Tatarko, J., Tedela, N.H., Moriasi, D.N., Newingham, B.A., Pierson, F.B., Toledo, D., Van Pelt, R.S., 2022. Parameterizing an aeolian erosion model for rangelands. Aeolian Research 54, 100769.
+
+Herrick, J.E., Van Zee, J.W., McCord, S.E., Courtright, E.M., Karl, J.W., Burkett, L.M., 2018. Monitoring Manual for Grassland, Shrubland, and Savanna Ecosystems, Volume 1: Core Methods, Second Edition. USDA-ARS Jornada Experimental Range, Las Cruces, New Mexico.
+
+McCord, S.E., Brehm, J.R., Burnett, S.H., Dietrich, C., Edwards, B.L., Metz, L.J., Hernandez Narvaez, M., Pierson, F., Ramirez, K.S., Stauffer, N.G., Webb, N.P., Tweedie, C.E. , 2022b. A framework and toolset for standardizing agroecosystem indicators. Ecological Indicators 144, 109511.
+
+Toevs, G.R., Karl, J.W., Taylor, J.T., Spurrier, C.S., Karl, M., Bobo, M.R., Herrick, J.E., 2011. Consistent indicators and methods and a scalable sample design to meet assessment, inventory, and monitoring information needs across scales. Rangelands 33, 14-20.
 
