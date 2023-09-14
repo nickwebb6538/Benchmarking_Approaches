@@ -40,7 +40,7 @@ Paper is structured to illustrate different approaches to establishing quantitat
 6.  Quantiles.R
 7.  Indicator_quantiles_by_scale_20230825.R	
 
-R code for each example approach for establishing quantitative benchmarks includes links to relevant data files. Comprehensive schema tables are available with download from https://landscapedatacommons.org 
+R code for each example approach for establishing quantitative benchmarks includes links to relevant data files. Comprehensive schema tables are available with download from https://landscapedatacommons.org
 
 # References
 
